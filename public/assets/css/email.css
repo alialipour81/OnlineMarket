@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'IRANSans-med';
+    src: url("../fonts/IRANSansX-Medium.woff");
+}
+body{
+    font-family: 'IRANSans-med' !important;
+}
